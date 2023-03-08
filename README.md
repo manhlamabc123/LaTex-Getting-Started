@@ -3,3 +3,4 @@
 * This contents libraries that I find useful.
 * Note that this is for Vietnamese.
 * `Slide.tex` is for making Presentation slide, `Text.tex` is for writing such as Report
+* `Report` is a folder contains everything you need to write a HUST report
